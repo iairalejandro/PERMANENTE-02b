@@ -1,6 +1,6 @@
 # PERMANENTE-02b
 
-CÓDIGO Nª1:
+CÓDIGO Nª1, 2:
 Hecho por la función INSERTION_SORT donde calcula la cantidad de tiempo de búsqueda en una lista del 1 al 10000000.
 
 1. Muestra junto al mensaje si el número está dentro de la lista, si es el caso imprimira TRUE; caso contrario FALSE.
